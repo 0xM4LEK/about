@@ -51,4 +51,19 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-007AC
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+---
+
+## 📫 Contact
+<div align="center">
+  <b>Discord:</b> x_m4lek_x
+</div>
+
+---
+
+## 👁️ Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MalekToumi&label=Profile%20views&color=blue&style=flat-square" />
+</div>
